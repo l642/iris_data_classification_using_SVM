@@ -1,1 +1,1 @@
-# irsi_data_classification_using_SVM
+# iris_data_classification_using_SVM
